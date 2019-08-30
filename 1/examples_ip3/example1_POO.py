@@ -7,7 +7,6 @@ from matplotlib.figure import Figure
 
 import numpy as np
 
-
 class GrapGui(tkinter.Frame):
     def __init__ (self, master = None):
         # Construct the Frame object.
@@ -34,9 +33,6 @@ class GrapGui(tkinter.Frame):
 
         # Conectando eventos con funciones handler
         self.canvas.mpl_connect("key_press_event", self.on_key_press)
-
-
-
 
     # ---------------------------------------------------------------------------
     # Paso 3: Definir las funciones handler
