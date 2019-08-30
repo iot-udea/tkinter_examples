@@ -16,6 +16,8 @@ A continuación se muestra la salida en pantalla:
 
 ![figura_example1](figura_example1.png)
 
+Una forma mas apropiada es codificar el ejemplo anterior usando POO. En archivo [example1_POO.py](example1_POO.py) se muestra esto. La salida es la misma que para el caso no orientado a objetos.
+
 ## Ejemplo 2 ##
 
 **Codigo**: 
@@ -35,3 +37,8 @@ A continuación se muestra la salida en pantalla:
 La imagen guardada en el escritorio cuando se presionó la tecla **s** se muestra a continuación:
 
 ![image](image.png)
+
+Una forma mas apropiada es codificar el ejemplo anterior usando POO. En archivo [example2_POO.py](example2_POO.py) se muestra esto. La salida es la misma que para el caso no orientado a objetos.
+
+## Referencias ##
+1. [tkinter — Python interface to Tcl/Tk](https://docs.python.org/3/library/tkinter.html#)
