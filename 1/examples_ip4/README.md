@@ -30,7 +30,7 @@ python3 example2.py
 
 A continuación se muestra la salida en pantalla:
 
-![figura_example2](image_example1.png)
+![figura_example2](image_example2.png)
 
 ## Ejemplo 3 ##
 
