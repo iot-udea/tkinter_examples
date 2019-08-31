@@ -53,4 +53,6 @@ A continuación se muestra la salida en pantalla:
 
 ## Referencias ##
 
+Los ejemplos anteriormente vistos fueron tomados de:
 1. [Live Graphs with Matplotlib](https://pythonprogramming.net/live-graphs-matplotlib-tutorial/)
+2. [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
