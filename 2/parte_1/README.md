@@ -1,14 +1,17 @@
 # Ejemplos - Hilos #
 
+## Ejemplo 1 ##
 
-Los siguientes ejemplos se tomaron del enlace: [Python and the Shell](https://www.python-course.eu/os_module_shell.php)
+**Codigo**: 
 
-# Ejemplos - Python and the Shell #
+[example1_h.py](example1_h.py)
 
-## Parte 1 - The process module
+**Ejecución**:
 
+```bash
+python3 example1_h.py
+```
 
-## Parte 2 - The subprocess module
+A continuación se muestra la salida en pantalla:
 
-
-
+![figura_example1](image_example1_h.png)
